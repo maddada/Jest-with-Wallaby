@@ -1,3 +1,1 @@
-# ts-jest-wallaby  boilerplate
-
-A boilerplate for TypeScript ,JavaScript ,Jest and Wallaby.js
+# Working starter for using Jest with Wallaby (TS/JS)
